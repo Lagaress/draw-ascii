@@ -1,0 +1,38 @@
+{
+  "name": "draw-ascii",
+  "version": "1.0.0",
+  "description": "A library to draw ASCII art animals, tools, and food",
+  "main": "./index.js",
+  "author": {
+    "name": "Jesús Lagares",
+    "email": "jesuslagaresgalan@gmail.com",
+    "url": "https://github.com/Lagaress"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lagaress/draw-ascii.git"
+  },
+  "keywords": [
+    "ascii",
+    "javascript",
+    "art",
+    "animals",
+    "cow",
+    "pig",
+    "chicken",
+    "duck",
+    "cat",
+    "dog",
+    "tools",
+    "hammer",
+    "axe",
+    "saw",
+    "screwdriver",
+    "wrench",
+    "food"
+  ]
+}
