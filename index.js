@@ -1,109 +1,53 @@
 // Animals
-const cow = require('./src/animals/cow');
-const pig = require('./src/animals/pig');
-const chicken = require('./src/animals/chicken');
-const duck = require('./src/animals/duck');
-const cat = require('./src/animals/cat');
-const dog = require('./src/animals/dog');
-const alligator = require('./src/animals/alligator');
-const ant = require('./src/animals/ant');
-const bacon = require('./src/animals/bacon');
-const bat = require('./src/animals/bat');
-const bear = require('./src/animals/bear');
-const bee = require('./src/animals/bee');
-const bird = require('./src/animals/bird');
-const bug = require('./src/animals/bug');
-const bull = require('./src/animals/bull');
-const camel = require('./src/animals/camel');
-const panda = require('./src/animals/panda');
-const seahorse = require('./src/animals/seahorse');
-const sheep = require('./src/animals/sheep');
-const squirrel = require('./src/animals/squirrel');
-const squid = require('./src/animals/squid');
-const tapir = require('./src/animals/tapir');
-const toucan = require('./src/animals/toucan');
-const turkey = require('./src/animals/turkey');
-const zebra = require('./src/animals/zebra');
+exports.cow = require('./src/animals/cow');
+exports.pig = require('./src/animals/pig');
+exports.chicken = require('./src/animals/chicken');
+exports.duck = require('./src/animals/duck');
+exports.cat = require('./src/animals/cat');
+exports.dog = require('./src/animals/dog');
+exports.alligator = require('./src/animals/alligator');
+exports.ant = require('./src/animals/ant');
+exports.bacon = require('./src/animals/bacon');
+exports.bat = require('./src/animals/bat');
+exports.bear = require('./src/animals/bear');
+exports.bee = require('./src/animals/bee');
+exports.bird = require('./src/animals/bird');
+exports.bug = require('./src/animals/bug');
+exports.bull = require('./src/animals/bull');
+exports.camel = require('./src/animals/camel');
+exports.panda = require('./src/animals/panda');
+exports.seahorse = require('./src/animals/seahorse');
+exports.sheep = require('./src/animals/sheep');
+exports.squirrel = require('./src/animals/squirrel');
+exports.squid = require('./src/animals/squid');
+exports.tapir = require('./src/animals/tapir');
+exports.toucan = require('./src/animals/toucan');
+exports.turkey = require('./src/animals/turkey');
+exports.zebra = require('./src/animals/zebra');
 
 // Food
-const beer = require('./src/food/beer');
-const grapes = require('./src/food/grapes');
-const soup = require('./src/food/soup');
-const tea = require('./src/food/tea');
-const pizza = require('./src/food/pizza');
+exports.beer = require('./src/food/beer');
+exports.grapes = require('./src/food/grapes');
+exports.soup = require('./src/food/soup');
+exports.tea = require('./src/food/tea');
+exports.pizza = require('./src/food/pizza');
 
 // Objects
-const anchor = require('./src/objects/anchor');
-const arrow = require('./src/objects/arrow');
-const bible = require('./src/objects/biblie');
-const bucket = require('./src/objects/bucket');
-const canon = require('./src/objects/canon');
-const clock = require('./src/objects/clock');
-const glasses = require('./src/objects/glasses');
-const sofa = require('./src/objects/sofa');
-const spoon = require('./src/objects/spoon');
-const star = require('./src/objects/star');
-const tie = require('./src/objects/tie');
+exports.anchor = require('./src/objects/anchor');
+exports.arrow = require('./src/objects/arrow');
+exports.bible = require('./src/objects/biblie');
+exports.bucket = require('./src/objects/bucket');
+exports.canon = require('./src/objects/canon');
+exports.clock = require('./src/objects/clock');
+exports.glasses = require('./src/objects/glasses');
+exports.sofa = require('./src/objects/sofa');
+exports.spoon = require('./src/objects/spoon');
+exports.star = require('./src/objects/star');
+exports.tie = require('./src/objects/tie');
 
 // Tools
-const hammer = require('./src/tools/hammer');
-const axe = require('./src/tools/axe');
-const saw = require('./src/tools/saw');
-const screwdriver = require('./src/tools/screwdriver');
-const wrench = require('./src/tools/wrench');
-
-module.exports = {
-  // Animals
-  cow,
-  pig,
-  chicken,
-  duck,
-  cat,
-  dog,
-  alligator,
-  ant,
-  bacon,
-  bat,
-  bear,
-  bee,
-  bird,
-  bug,
-  bull,
-  camel,
-  panda,
-  seahorse,
-  sheep,
-  squirrel,
-  squid,
-  tapir,
-  toucan,
-  turkey,
-  zebra,
-
-  // Tools
-  hammer,
-  axe,
-  saw,
-  screwdriver,
-  wrench,
-
-  // Food
-  pizza,
-  beer,
-  grapes,
-  soup,
-  tea,
-
-  // Objects
-  anchor,
-  arrow,
-  bible,
-  bucket,
-  canon,
-  clock,
-  glasses,
-  sofa,
-  spoon,
-  star,
-  tie
-};
+exports.hammer = require('./src/tools/hammer');
+exports.axe = require('./src/tools/axe');
+exports.saw = require('./src/tools/saw');
+exports.screwdriver = require('./src/tools/screwdriver');
+exports.wrench = require('./src/tools/wrench');
