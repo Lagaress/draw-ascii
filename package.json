@@ -1,7 +1,7 @@
 {
   "name": "draw-ascii",
-  "version": "1.0.1",
-  "description": "A library to draw ASCII art animals, tools, and food",
+  "version": "1.0.2",
+  "description": "A library to draw ASCII art animals, tools, food, objects and weapons",
   "main": "./index.js",
   "author": {
     "name": "Jesús Lagares",
@@ -33,6 +33,14 @@
     "saw",
     "screwdriver",
     "wrench",
+    "food",
+    "bacon",
+    "beer",
+    "cheese",
+    "donut",
+    "fish",
+    "grapes",
+    "milk",
     "food"
   ]
 }

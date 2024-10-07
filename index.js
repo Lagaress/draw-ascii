@@ -7,7 +7,6 @@ exports.cat = require('./src/animals/cat');
 exports.dog = require('./src/animals/dog');
 exports.alligator = require('./src/animals/alligator');
 exports.ant = require('./src/animals/ant');
-exports.bacon = require('./src/animals/bacon');
 exports.bat = require('./src/animals/bat');
 exports.bear = require('./src/animals/bear');
 exports.bee = require('./src/animals/bee');
@@ -26,24 +25,32 @@ exports.turkey = require('./src/animals/turkey');
 exports.zebra = require('./src/animals/zebra');
 
 // Food
+exports.bacon = require('./src/food/bacon');
 exports.beer = require('./src/food/beer');
+exports.cheese = require('./src/food/cheese');
+exports.donut = require('./src/food/donut');
+exports.fish = require('./src/food/fish');
 exports.grapes = require('./src/food/grapes');
+exports.milk = require('./src/food/milk');
+exports.pear = require('./src/food/pear');
+exports.pizza = require('./src/food/pizza');
 exports.soup = require('./src/food/soup');
 exports.tea = require('./src/food/tea');
-exports.pizza = require('./src/food/pizza');
 
 // Objects
 exports.anchor = require('./src/objects/anchor');
-exports.arrow = require('./src/objects/arrow');
 exports.bible = require('./src/objects/biblie');
 exports.bucket = require('./src/objects/bucket');
-exports.canon = require('./src/objects/canon');
 exports.clock = require('./src/objects/clock');
 exports.glasses = require('./src/objects/glasses');
+exports.microphone = require('./src/objects/microphone');
+exports.pen = require('./src/objects/pen');
 exports.sofa = require('./src/objects/sofa');
 exports.spoon = require('./src/objects/spoon');
 exports.star = require('./src/objects/star');
 exports.tie = require('./src/objects/tie');
+exports.towel = require('./src/objects/towel');
+exports.typewriter = require('./src/objects/typewriter');
 
 // Tools
 exports.hammer = require('./src/tools/hammer');
@@ -51,3 +58,8 @@ exports.axe = require('./src/tools/axe');
 exports.saw = require('./src/tools/saw');
 exports.screwdriver = require('./src/tools/screwdriver');
 exports.wrench = require('./src/tools/wrench');
+
+// Weapons
+exports.arrow = require('./src/weapons/arrow');
+exports.cannon = require('./src/weapons/cannon');
+exports.gun = require('./src/weapons/gun');

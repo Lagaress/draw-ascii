@@ -90,25 +90,35 @@ Click the name for more information
 - [wrench](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/wrench.js)
 
 ### Food
-- [pizza](https://github.com/Lagaress/draw-ascii/blob/master/src/food/pizza.js)
+- [bacon](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bacon.js)
 - [beer](https://github.com/Lagaress/draw-ascii/blob/master/src/food/beer.js)
+- [cheese](https://github.com/Lagaress/draw-ascii/blob/master/src/food/cheese.js)
+- [donut](https://github.com/Lagaress/draw-ascii/blob/master/src/food/donut.js)
+- [fish](https://github.com/Lagaress/draw-ascii/blob/master/src/food/fish.js)
 - [grapes](https://github.com/Lagaress/draw-ascii/blob/master/src/food/grapes.js)
+- [milk](https://github.com/Lagaress/draw-ascii/blob/master/src/food/milk.js)
+- [pear](https://github.com/Lagaress/draw-ascii/blob/master/src/food/pear.js)
+- [pizza](https://github.com/Lagaress/draw-ascii/blob/master/src/food/pizza.js)
 - [soup](https://github.com/Lagaress/draw-ascii/blob/master/src/food/soup.js)
 - [tea](https://github.com/Lagaress/draw-ascii/blob/master/src/food/tea.js)
-- [bacon](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bacon.js)
 
 ### Objects
 - [anchor](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/anchor.js)
-- [arrow](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/arrow.js)
 - [bible](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/bible.js)
 - [bucket](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/bucket.js)
-- [canon](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/canon.js)
 - [clock](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/clock.js)
 - [glasses](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/glasses.js)
+- [microphone](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/microphone.js)
+- [pen](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/pen.js)
 - [sofa](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/sofa.js)
 - [spoon](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/spoon.js)
 - [star](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/star.js)
 - [tie](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/tie.js)
+
+### Weapons
+- [arrow](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/arrow.js)
+- [cannon](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/cannon.js)
+- [gun](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/gun.js)
 
 ## Contributing
 

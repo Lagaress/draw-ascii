@@ -1,4 +1,4 @@
-function canon() {
+function cannon() {
   return `
                   __
                  /  \\
@@ -13,4 +13,4 @@ function canon() {
   `;
 }
 
-module.exports = canon;
+module.exports = cannon;
