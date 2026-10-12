@@ -1,0 +1,11 @@
+---
+tags: forest, plant, wood
+artist: draw-ascii
+---
+      ###
+     #o###
+   #####o###
+  #o#\#|#/###
+   ###\|/#o#
+    # }|{  #
+      }|{

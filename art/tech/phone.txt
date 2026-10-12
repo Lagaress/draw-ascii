@@ -1,0 +1,12 @@
+---
+tags: mobile, smartphone, call
+artist: draw-ascii
+---
+ .-------.
+ | ===== |
+ |       |
+ |       |
+ |       |
+ |       |
+ |   o   |
+ '-------'

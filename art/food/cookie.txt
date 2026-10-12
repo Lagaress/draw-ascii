@@ -1,0 +1,11 @@
+---
+tags: biscuit, sweet, snack, chocolate chip
+artist: draw-ascii
+---
+     .-"""""-.
+   .'  o   .  '.
+  /  .   o    o \
+ |  o    .   .   |
+  \   .   o  .  /
+   '.  o    . .'
+     '-.....-'

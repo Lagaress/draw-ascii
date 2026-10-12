@@ -1,0 +1,14 @@
+---
+tags: magnifying glass, search, zoom, detective, find
+artist: draw-ascii
+---
+    _______
+  .'       '.
+ /           \
+|             |
+|             |
+ \           /
+  '._______.'\
+              \\
+               \\
+                \\

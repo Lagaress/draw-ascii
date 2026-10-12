@@ -1,0 +1,13 @@
+---
+tags: camping, camp, outdoors, shelter, hiking
+artist: draw-ascii
+---
+            |>
+            /\
+           /  \
+          /    \
+         /  /\  \
+        /  /  \  \
+       /  /    \  \
+      /  /      \  \
+  ___/__/________\__\___

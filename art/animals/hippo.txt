@@ -1,0 +1,12 @@
+---
+tags: mammal, africa, river, hippopotamus, big
+artist: draw-ascii
+---
+    _             _
+   (_)._________.(_)
+    /             \
+   |   o       o   |
+   |               |
+  /                 \
+ |    (O)     (O)    |
+  \_________________/

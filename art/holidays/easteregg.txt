@@ -1,0 +1,12 @@
+---
+tags: easter, egg, spring, decorated, holiday
+artist: draw-ascii
+---
+        .-"-.
+      .'     '.
+     / ~~~~~~~ \
+    | o  o  o  o|
+    |~~~~~~~~~~~|
+    | ^ ^ ^ ^ ^ |
+     \~~~~~~~~~/
+      '._____.'

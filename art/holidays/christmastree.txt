@@ -1,0 +1,14 @@
+---
+tags: christmas, tree, xmas, holiday, pine, winter
+artist: draw-ascii
+---
+           *
+          /.\
+         /o..\
+        /..o..\
+       /.o..*..\
+      /..*..o..o\
+     /.o...*...o.\
+    /..*..o..o..*.\
+   /_______________\
+         |___|

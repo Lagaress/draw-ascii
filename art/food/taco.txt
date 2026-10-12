@@ -1,0 +1,9 @@
+---
+tags: mexican, fastfood, tortilla
+artist: draw-ascii
+---
+   ,v,v,v,v,v,v,v,v,
+  (~~~~~~~~~~~~~~~~~)
+   \  .   .   .   /
+    '.  .   .   .'
+      '-._____.-'

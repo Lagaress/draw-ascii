@@ -1,0 +1,15 @@
+---
+tags: trident, poseidon, neptune, fork, sea
+artist: draw-ascii
+---
+   ^    ^    ^
+   |    |    |
+   |    |    |
+   \____|____/
+        |
+        |
+        |
+        |
+        |
+        |
+        O

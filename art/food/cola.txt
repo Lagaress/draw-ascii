@@ -1,0 +1,12 @@
+---
+tags: soda, drink, bottle, soft drink
+artist: draw-ascii
+---
+     _
+    |_|
+    | |
+   /   \
+  (     )
+   )COLA(
+  (     )
+   \___/

@@ -1,0 +1,10 @@
+---
+tags: wifi, modem, internet, network
+artist: draw-ascii
+---
+    \       |       /
+     \      |      /
+      \     |     /
+  .----\----|----/----.
+  | o o o o    ((o))  |
+  '-------------------'

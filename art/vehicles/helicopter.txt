@@ -1,0 +1,10 @@
+---
+tags: chopper, rotor, aircraft, flying
+artist: draw-ascii
+---
+     ---------+---------
+          ____|____
+         /    |  | \
+ +=======|    |  |__\
+          \___|_____/
+          _|_____|_

@@ -1,0 +1,12 @@
+---
+tags: mammal, australia, eucalyptus, marsupial, cute
+artist: draw-ascii
+---
+ .--.        .--.
+(    '.____.'    )
+ '.  /      \  .'
+   '|  o  o  |'
+    |  .--.  |
+    |  |  |  |
+     \ '--' /
+      '----'

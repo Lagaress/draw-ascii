@@ -1,0 +1,11 @@
+---
+tags: insect, beetle, bug, garden, luck, ladybird
+artist: draw-ascii
+---
+      _   _
+       \_/
+    .--(_)--.
+   / o  |  o \
+  |  o  |  o  |
+   \ o  |  o /
+    '---'---'

@@ -1,0 +1,15 @@
+---
+tags: mammal, alpaca, andes, wool, peru
+artist: draw-ascii
+---
+     /\/\
+    / o  \
+   (    __)
+    |  |
+    |  |
+    |  '--------.
+    |  ~ ~ ~ ~   \
+    | ~ ~ ~ ~ ~  |
+     \__________/
+      ||      ||
+      ||      ||

@@ -1,0 +1,11 @@
+---
+tags: noodles, japanese, soup, bowl, chopsticks
+artist: draw-ascii
+---
+       ||  //
+       || //
+   ____||//_____
+  (~~@~~~~~~~~~~)
+   \  ~~~~~~   /
+    \_________/
+      '-----'

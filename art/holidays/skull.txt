@@ -1,0 +1,12 @@
+---
+tags: skull, halloween, death, pirate, spooky, bones
+artist: draw-ascii
+---
+       .-----.
+     .'       '.
+    /  __   __  \
+   |  (__) (__)  |
+   |      ^      |
+    \  _______  /
+     '.|_|_|_|.'
+       '-----'

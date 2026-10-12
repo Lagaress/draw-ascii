@@ -1,0 +1,9 @@
+---
+tags: sky, weather, cloud
+artist: draw-ascii
+---
+      .--.
+   .-(    ).
+  (___.__)__)
+   ' ' ' ' '
+  ' ' ' ' '

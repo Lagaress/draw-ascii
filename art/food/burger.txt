@@ -1,0 +1,10 @@
+---
+tags: fastfood, meat, hamburger
+artist: draw-ascii
+---
+   _______
+  /. . . .\
+ |~~~~~~~~~|
+ |=========|
+ |#########|
+  \_______/

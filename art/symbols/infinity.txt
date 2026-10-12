@@ -1,0 +1,10 @@
+---
+tags: infinity, endless, forever, loop, math
+artist: draw-ascii
+---
+     .--.      .--.
+   .'    '.  .'    '.
+  /        \/        \
+  \        /\        /
+   '.    .'  '.    .'
+     '--'      '--'

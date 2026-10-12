@@ -1,0 +1,13 @@
+---
+tags: at, at sign, email, at symbol, mention
+artist: draw-ascii
+---
+      .------.
+    .'        '.
+   /   .--.  .  \
+  |   /    \ |   |
+  |  |      ||   |
+  |   \    /||   /
+   \   '--'  '--'
+    '.
+      '-------'

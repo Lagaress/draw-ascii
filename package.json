@@ -1,46 +1,65 @@
 {
   "name": "draw-ascii",
-  "version": "1.0.2",
-  "description": "A library to draw ASCII art animals, tools, food, objects and weapons",
-  "main": "./index.js",
+  "version": "2.0.0",
+  "description": "Hundreds of ASCII art drawings (animals, food, objects, vehicles, space...) plus speech bubbles, frames, colors, banners and a CLI",
+  "main": "./lib/index.js",
+  "module": "./lib/index.mjs",
+  "types": "./lib/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./lib/index.d.ts",
+      "import": "./lib/index.mjs",
+      "require": "./lib/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "draw-ascii": "bin/draw-ascii.js"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18.3"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate-art.js",
+    "test": "node scripts/validate-art.js && node scripts/build.js --check && node --test test/*.test.js test/*.test.mjs",
+    "test:types": "tsc -p test/types",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
   "author": {
     "name": "Jesús Lagares",
     "email": "jesuslagaresgalan@gmail.com",
     "url": "https://github.com/Lagaress"
   },
   "license": "MIT",
-  "scripts": {
-    "start": "node index.js"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lagaress/draw-ascii"
+    "url": "git+https://github.com/Lagaress/draw-ascii.git"
   },
+  "bugs": {
+    "url": "https://github.com/Lagaress/draw-ascii/issues"
+  },
+  "homepage": "https://github.com/Lagaress/draw-ascii#readme",
   "keywords": [
     "ascii",
-    "javascript",
+    "ascii-art",
     "art",
+    "cli",
+    "cowsay",
+    "terminal",
+    "banner",
+    "figlet",
+    "emoji",
     "animals",
-    "cow",
-    "pig",
-    "chicken",
-    "duck",
-    "cat",
-    "dog",
-    "tools",
-    "hammer",
-    "axe",
-    "saw",
-    "screwdriver",
-    "wrench",
-    "food",
-    "bacon",
-    "beer",
-    "cheese",
-    "donut",
-    "fish",
-    "grapes",
-    "milk",
-    "food"
+    "drawing",
+    "text-art"
   ]
 }

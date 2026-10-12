@@ -1,0 +1,18 @@
+---
+tags: spear, lance, javelin, pike, hunting
+artist: draw-ascii
+---
+       /\
+      /  \
+     /    \
+     \    /
+      \__/
+       ||
+       ||
+       ||
+       ||
+       ||
+       ||
+       ||
+       ||
+       ()

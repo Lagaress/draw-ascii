@@ -1,0 +1,13 @@
+---
+tags: vegetable, aubergine, purple
+artist: draw-ascii
+---
+     \|/
+    .-^-.
+   /     \
+   |      \
+   \       \
+    \       \
+     \       |
+      '._   /
+         '-'

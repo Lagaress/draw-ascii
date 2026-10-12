@@ -1,0 +1,9 @@
+---
+tags: usb stick, flash drive, pendrive, storage
+artist: draw-ascii
+---
+           ______________________
+  ________|                      \
+ | [] []  |         USB          |
+ |________|                      |
+          |______________________/

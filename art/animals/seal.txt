@@ -1,0 +1,13 @@
+---
+tags: mammal, sea, ocean, circus, ball, pup
+artist: draw-ascii
+---
+           ()
+     .--.
+    / o  \__
+    \     __>
+     |   |
+     |    \
+    /      \_
+   /    _    \
+  (____/ \____)

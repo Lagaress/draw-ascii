@@ -1,0 +1,13 @@
+---
+tags: launch, ship, nasa
+artist: draw-ascii
+---
+     /\
+    /  \
+   | () |
+   |    |
+   |    |
+  /| /\ |\
+ /_|/  \|_\
+    ||||
+    ''''

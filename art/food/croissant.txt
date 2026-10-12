@@ -1,0 +1,8 @@
+---
+tags: pastry, french, breakfast, bakery
+artist: draw-ascii
+---
+           _______
+      _.-'|   |   |'-._
+    .' /  |   |   |  \ '.
+   (__/   |___|___|   \__)

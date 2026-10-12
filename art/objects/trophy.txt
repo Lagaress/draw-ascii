@@ -1,0 +1,13 @@
+---
+tags: cup, win, prize, champion
+artist: draw-ascii
+---
+   ___________
+ _|           |_
+( |    #1     | )
+ '|           |'
+   \         /
+    '.     .'
+      |   |
+     _|___|_
+    |_______|

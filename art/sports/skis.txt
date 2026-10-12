@@ -1,0 +1,15 @@
+---
+tags: ski, skiing, snow, winter, slope
+artist: draw-ascii
+---
+  .   .
+ / \ / \
+ | | | |
+ | | | |
+ |=| |=|
+ |#| |#|
+ |=| |=|
+ | | | |
+ | | | |
+ | | | |
+ |_| |_|

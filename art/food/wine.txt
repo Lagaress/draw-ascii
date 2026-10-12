@@ -1,0 +1,12 @@
+---
+tags: drink, glass, alcohol, red wine
+artist: draw-ascii
+---
+   .-------.
+   |~~~~~~~|
+   |       |
+    \     /
+     '._.'
+       |
+       |
+    ___|___

@@ -1,0 +1,12 @@
+---
+tags: pins, ball, strike, bowling alley
+artist: draw-ascii
+---
+  .-.    .-.
+ (   )  (   )
+  ) (    ) (       _____
+ /   \  /   \    .'     '.
+|  =  ||  =  |  /  o o    \
+|     ||     | |    o      |
+ \___/  \___/   \         /
+                 '._____.'

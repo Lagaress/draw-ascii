@@ -1,0 +1,14 @@
+---
+tags: golf, flag, hole, green, course
+artist: draw-ascii
+---
+    |\
+    | \
+    |  >
+    | /
+    |/
+    |
+    |
+    |        o
+ ___|___
+'-.___.-'

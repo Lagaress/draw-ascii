@@ -1,0 +1,9 @@
+---
+tags: police, cop car, patrol, siren
+artist: draw-ascii
+---
+           [=()=]
+        ____________
+   ____/  |    |    \____
+  |  _    |POLICE   _    |
+  '-(_)----------------(_)-'

@@ -1,0 +1,12 @@
+---
+tags: plant, forest, fungus
+artist: draw-ascii
+---
+        _.-''''-._
+      .'  O    o  '.
+     /  o    O    o \
+    | O   o     O    |
+    '--.,________,.--'
+         |      |
+         |      |
+        _|______|_

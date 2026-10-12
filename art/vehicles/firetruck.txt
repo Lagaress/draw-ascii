@@ -1,0 +1,9 @@
+---
+tags: fire engine, firefighter, emergency, rescue
+artist: draw-ascii
+---
+  _H_H_H_H_H_H_H_H_H_H_   ____
+ |                    | |  \ \
+ | [==] [==] [==] [==]| |___\_\_
+ |____________________|_|       |
+ '--(O)---(O)-----------'-(O)---'

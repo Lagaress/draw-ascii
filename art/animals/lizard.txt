@@ -1,0 +1,9 @@
+---
+tags: reptile, gecko, iguana, desert, crawl
+artist: draw-ascii
+---
+        \|        \|
+         \\_    ___\\___
+ ~~~~~~~~==(____________o>
+         //        //
+        /|        /|

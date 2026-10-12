@@ -1,0 +1,12 @@
+---
+tags: mammal, farm, mule, burro, ears
+artist: draw-ascii
+---
+   /\         /\
+   \ \       / /
+    \ \_____/ /
+     \ o   o /
+      |     |
+      |     |
+     /  . .  \
+     \_______/

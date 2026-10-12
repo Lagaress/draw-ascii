@@ -1,0 +1,18 @@
+---
+tags: spade, dig, garden, digging
+artist: draw-ascii
+---
+  ____
+ [____]
+   ||
+   ||
+   ||
+   ||
+   ||
+  _||_
+ /    \
+|      |
+|      |
+ \    /
+  \  /
+   \/

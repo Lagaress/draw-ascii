@@ -1,0 +1,9 @@
+---
+tags: plane, jet, flight, aircraft, travel
+artist: draw-ascii
+---
+ |\
+ | \_____________________
+ |  o o o o o o o o o o  `-.
+  \__________/ /__________)
+            /_/

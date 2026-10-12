@@ -1,0 +1,13 @@
+---
+tags: egypt, giza, pharaoh, desert, ancient, tomb
+artist: draw-ascii
+---
+                 /\
+                /  \
+               /    \
+              /    \ \         /\
+             /      \ \       /  \
+            /       \  \     /    \
+           /         \  \   /    \ \
+          /          \   \ /      \ \
+_________/____________\___\_______\__\______

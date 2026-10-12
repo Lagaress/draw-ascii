@@ -1,0 +1,10 @@
+---
+tags: mammal, buffalo, prairie, herd, plains
+artist: draw-ascii
+---
+        ,;;;;;;,
+     ,;;;;;;;;;;;;.______
+   ,;' o ;;;;;;          '-.
+  (  ,  ';;;;;              )
+   \/ '. |  |'---------|  |'
+         |__|          |__|

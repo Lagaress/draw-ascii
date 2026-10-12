@@ -1,0 +1,11 @@
+---
+tags: ghost, spooky, halloween, boo, spirit
+artist: draw-ascii
+---
+    .-----.
+   /       \
+  |  O   O  |
+  |    o    |
+  |         |
+  |         |
+  |/\/\/\/\/|

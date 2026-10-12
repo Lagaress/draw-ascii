@@ -1,0 +1,12 @@
+---
+tags: vegetable, healthy
+artist: draw-ascii
+---
+    \\ | //
+     \\|//
+   .-'''''-.
+   \ -     /
+    \   - /
+     \ - /
+      \-/
+       V

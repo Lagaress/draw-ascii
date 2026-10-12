@@ -1,0 +1,10 @@
+---
+tags: loading, spinner, wait, busy, progress
+artist: draw-ascii
+---
+        .  o  O
+     .           @
+    .             @
+    .             @
+     .           O
+        .  o  o

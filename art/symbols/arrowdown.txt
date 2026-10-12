@@ -1,0 +1,13 @@
+---
+tags: arrow, down, south, decrease, download
+artist: draw-ascii
+---
+        __
+       |  |
+       |  |
+       |  |
+     __|  |__
+     \      /
+      \    /
+       \  /
+        \/

@@ -1,0 +1,14 @@
+---
+tags: vegetable, maize, cob, harvest
+artist: draw-ascii
+---
+        .-.
+       /ooo\
+      |ooooo|
+      |ooooo|
+   \  |ooooo|  /
+    \ |ooooo| /
+     \|ooooo|/
+      \ooooo/
+       \ooo/
+        \|/

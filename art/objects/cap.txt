@@ -1,0 +1,10 @@
+---
+tags: hat, baseball cap, sport, clothes
+artist: draw-ascii
+---
+       _.-----._
+     .'    o    '.
+    /             \
+   |_______________|
+    \______________\________
+                    '-------'

@@ -1,0 +1,9 @@
+---
+tags: insect, larva, bug, garden, crawl, leaf
+artist: draw-ascii
+---
+                     \ /
+   .-. .-. .-. .-. .(o o).
+  (   (   (   (   (   v   )
+   '-' '-' '-' '-' '-----'
+   ''  ''  ''  ''   '' ''

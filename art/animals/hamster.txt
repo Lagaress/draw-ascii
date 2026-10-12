@@ -1,0 +1,10 @@
+---
+tags: mammal, rodent, pet, cheeks, cute
+artist: draw-ascii
+---
+   ()_____()
+   / o   o \
+  ( ==( )== )
+   \  '-'  /
+   /`-----'\
+  (_)     (_)

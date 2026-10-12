@@ -1,0 +1,12 @@
+---
+tags: party, hat, birthday, celebration, cone
+artist: draw-ascii
+---
+          (@)
+          /\
+         /o \
+        /  ~ \
+       / o  ~ \
+      /~  o    \
+     /  ~   o ~ \
+    /_o___~___o__\

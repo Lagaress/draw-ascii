@@ -1,0 +1,11 @@
+---
+tags: bird, ice, linux
+artist: draw-ascii
+---
+   .--.
+  ( o> )
+ //    \\
+//      \\
+\\      //
+ '\____/'
+   ^  ^

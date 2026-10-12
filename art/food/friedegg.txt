@@ -1,0 +1,9 @@
+---
+tags: egg, breakfast, sunny side up, yolk
+artist: draw-ascii
+---
+       _.-""""-._
+     .'   .--.   '.
+    (    (    )    )
+     '.   '--'   _.'
+       '-.___.--'

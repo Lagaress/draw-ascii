@@ -1,0 +1,10 @@
+---
+tags: mammal, forest
+artist: draw-ascii
+---
+ /\   /\
+//\\_//\\
+\_     _/
+ / o o \
+ \  v  /
+  \___/

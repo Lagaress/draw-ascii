@@ -1,0 +1,9 @@
+---
+tags: mammal, australia, duck bill, odd, monotreme
+artist: draw-ascii
+---
+              _______
+      _______/ o     \___
+  ___/                   =====
+ (___________________.--'\====
+       ''       ''

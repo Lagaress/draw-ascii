@@ -1,0 +1,10 @@
+---
+tags: toast, slice, bakery, breakfast
+artist: draw-ascii
+---
+   .-"""""""-.
+  (           )
+   |         |
+   |         |
+   |         |
+   |_________|

@@ -1,0 +1,9 @@
+---
+tags: cab, yellow cab, ride, city
+artist: draw-ascii
+---
+           [TAXI]
+        ____________
+   ____/  |    |    \____
+  |  _    |    |    _    |
+  '-(_)----------------(_)-'

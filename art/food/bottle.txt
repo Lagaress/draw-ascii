@@ -1,0 +1,11 @@
+---
+tags: water, drink, plastic, hydration
+artist: draw-ascii
+---
+     [=]
+     | |
+    /   \
+   |     |
+   |~~~~~|
+   |     |
+   |_____|

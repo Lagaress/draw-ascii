@@ -1,0 +1,13 @@
+---
+tags: mammal, farm, pony, ride, stallion
+artist: draw-ascii
+---
+          /\
+       __/  |~
+     _/ o   |~~
+    /        \~~
+   /          \~~
+  (_ ,  /\     \~~
+   '---'  |     \~
+          |      |
+          |______|

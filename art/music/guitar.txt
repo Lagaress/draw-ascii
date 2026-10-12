@@ -1,0 +1,19 @@
+---
+tags: acoustic, guitar, rock, strings, instrument
+artist: draw-ascii
+---
+        ___
+       |o o|
+       |o o|
+        | |
+        |=|
+        |=|
+        |=|
+        |=|
+     .--|=|--.
+    /   |=|   \
+   (    (_)    )
+    \         /
+   /   [===]   \
+  (             )
+   '-._______.-'

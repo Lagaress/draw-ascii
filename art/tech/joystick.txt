@@ -1,0 +1,13 @@
+---
+tags: arcade, gaming, controller, retro
+artist: draw-ascii
+---
+        .-.
+       (   )
+        '-'
+         |
+         |
+     ____|____   _
+    /         \ (o)
+   /___________\_|_
+  |________________|

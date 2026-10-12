@@ -1,0 +1,14 @@
+---
+tags: wand, magic, wizard, spell, sparkle
+artist: draw-ascii
+---
+           .  *  .
+         *  \ | /  *
+       .  -- (*) --  .
+         *  / | \  *
+           /  *  .
+          /
+         /
+        /
+       /
+      /

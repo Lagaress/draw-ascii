@@ -1,0 +1,9 @@
+---
+tags: mammal, ape, primate, jungle, banana
+artist: draw-ascii
+---
+       .---.
+   .-./ o o \.-.
+  ( (|  .-.  |) )
+   '-'\ \_/ /'-'
+       '---'

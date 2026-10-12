@@ -1,0 +1,12 @@
+---
+tags: crystal ball, fortune, psychic, magic, orb
+artist: draw-ascii
+---
+       .-----.
+     .'   *   '.
+    /  *     .  \
+   |   .  *      |
+    \     .   * /
+     '._______.'
+     _/_______\_
+    /___________\

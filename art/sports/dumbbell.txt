@@ -1,0 +1,10 @@
+---
+tags: weights, gym, fitness, workout, lifting
+artist: draw-ascii
+---
+ ___               ___
+|   |_           _|   |
+|   | |_________| |   |
+|   | |_________| |   |
+|   |_|         |_|   |
+|___|             |___|

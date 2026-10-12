@@ -1,0 +1,14 @@
+---
+tags: mammal, antlers, canada, forest, elk
+artist: draw-ascii
+---
+ _   _   _         _   _   _
+| |_| |_| |       | |_| |_| |
+ \        /_______\        /
+  '------/         \------'
+         |  o   o  |
+         |         |
+          \       /
+          |  ___  |
+          | (o o) |
+          '-------'

@@ -1,0 +1,11 @@
+---
+tags: plant, garden, spring
+artist: draw-ascii
+---
+   _
+ _(_)_
+(_)@(_)
+  (_)\
+     |  /
+   \ | /
+ ~~~~~~~~~

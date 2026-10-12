@@ -1,0 +1,12 @@
+---
+tags: die, game, casino, luck, board game
+artist: draw-ascii
+---
+   ________
+  / o    o/|
+ /   o   / |
+/o_____o/ o|
+| o   o |  |
+|   o   | o|
+| o   o | /
+|_______|/

@@ -1,0 +1,15 @@
+---
+tags: sax, jazz, brass, instrument
+artist: draw-ascii
+---
+  __
+  \ \
+   \ \
+    | |
+    | |o
+    | |o    ______
+    | |o    \    /
+    | |o     |  |
+    | |      |  |
+     \ \____/  /
+      \_______/

@@ -1,0 +1,10 @@
+---
+tags: fruit, tropical, palm, beach
+artist: draw-ascii
+---
+      ,;;;;;;;;,
+    ;;' o    o ';;
+   ;;      o     ;;
+   ;;            ;;
+    ';;        ;;'
+      ';;;;;;;;'

@@ -1,0 +1,15 @@
+---
+tags: mammal, ape, primate, jungle, kong, strong
+artist: draw-ascii
+---
+          .-""-.
+         / ____ \
+        | (o  o) |
+     ___|  .--.  |___
+    /    \ (oo) /    \
+   /      '----'      \
+  |    |          |    |
+  |    |          |    |
+  (____)|        |(____)
+        |   ||   |
+        (___)(___)

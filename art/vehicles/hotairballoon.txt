@@ -1,0 +1,13 @@
+---
+tags: hot air balloon, balloon, flight, sky
+artist: draw-ascii
+---
+     .-----.
+   .'  | |  '.
+  /   |   |   \
+ |    |   |    |
+  \   |   |   /
+   '. |   | .'
+     \ \ / /
+      \_|_/
+      |___|

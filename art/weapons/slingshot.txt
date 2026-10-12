@@ -1,0 +1,15 @@
+---
+tags: slingshot, catapult, sling, toy, kids
+artist: draw-ascii
+---
+   |     |
+   |\   /|
+   | \ / |
+   | (o) |
+    \   /
+     \ /
+      |
+      |
+     |=|
+     |=|
+     |_|

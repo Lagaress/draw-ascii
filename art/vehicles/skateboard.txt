@@ -1,0 +1,8 @@
+---
+tags: skate, board, deck, skater
+artist: draw-ascii
+---
+ __                     __
+ \ \___________________/ /
+  \_____________________/
+      (O)           (O)

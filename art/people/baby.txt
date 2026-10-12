@@ -1,0 +1,14 @@
+---
+tags: baby, infant, newborn, child, toddler
+artist: draw-ascii
+---
+         _
+        ( )
+      .-----.
+     /       \
+    |  ^   ^  |
+    |    o    |
+     \  (_)  /
+      '-----'
+     /|     |\
+    (_|_____|_)

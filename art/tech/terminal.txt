@@ -1,0 +1,11 @@
+---
+tags: console, shell, command line, cli, bash
+artist: draw-ascii
+---
+ .--------------------------------.
+ | o o o                          |
+ |--------------------------------|
+ | $ npm install draw-ascii       |
+ | $ _                            |
+ |                                |
+ '--------------------------------'

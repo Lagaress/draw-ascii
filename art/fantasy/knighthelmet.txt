@@ -1,0 +1,14 @@
+---
+tags: helmet, knight, armor, medieval, warrior
+artist: draw-ascii
+---
+        ,~~~,
+       ( ~ ~ )
+        \ | /
+      .--'-'--.
+     /         \
+    |  _______  |
+    | |_______| |
+    |   :   :   |
+    |   :   :   |
+     \_________/
