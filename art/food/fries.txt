@@ -1,0 +1,10 @@
+---
+tags: fastfood, chips, potato, french fries
+artist: draw-ascii
+---
+     |||/||\|||
+     ||||||||||
+   \============/
+    \          /
+     \        /
+      \______/

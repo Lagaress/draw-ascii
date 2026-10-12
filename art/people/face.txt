@@ -1,0 +1,10 @@
+---
+tags: face, head, person, portrait, man
+artist: draw-ascii
+---
+      \\\\|////
+      /       \
+     |  o   o  |
+    (|    ^    |)
+     |  \___/  |
+      \_______/

@@ -1,0 +1,12 @@
+---
+tags: mammal, bandit, mask, trash panda, night
+artist: draw-ascii
+---
+  /\             /\
+ /  \.---------./  \
+ \  /           \  /
+  \/  ___   ___  \/
+  |==(_o_)=(_o_)==|
+   \      _      /
+    \    (_)    /
+     '._______.'

@@ -1,0 +1,9 @@
+---
+tags: fruit, healthy
+artist: draw-ascii
+---
+   ,--./,-.
+  / #      \
+ |          |
+  \        /
+   `._,._,'

@@ -1,0 +1,13 @@
+---
+tags: big dipper, stars, night sky, ursa major
+artist: draw-ascii
+---
+ *
+  \
+   *
+    \
+     *-----*
+           |\
+           | *-----*
+           |       |
+           *-------*

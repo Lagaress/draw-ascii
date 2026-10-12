@@ -1,0 +1,11 @@
+---
+tags: idea, light, electricity
+artist: draw-ascii
+---
+   .--.
+  /    \
+ ;  ~~  ;
+  \ /\ /
+   |==|
+   |==|
+    ''

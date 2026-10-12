@@ -1,0 +1,13 @@
+---
+tags: computer mouse, click, pointer, input
+artist: draw-ascii
+---
+     |
+   .-+-.
+  /  |  \
+ |   |   |
+ |---'---|
+ |       |
+ |       |
+  \     /
+   '---'

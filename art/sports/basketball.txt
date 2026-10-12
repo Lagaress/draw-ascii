@@ -1,0 +1,11 @@
+---
+tags: basketball, ball, nba, hoop, court
+artist: draw-ascii
+---
+     .------.
+   .' (  |  ) '.
+  /   |  |  |   \
+ |----+--+--+----|
+  \   |  |  |   /
+   '. (  |  ) .'
+     '------'

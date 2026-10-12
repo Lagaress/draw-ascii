@@ -1,0 +1,9 @@
+---
+tags: power, energy, electricity
+artist: draw-ascii
+---
+ ___________
+|           |_
+| ||||||||  | |
+|           |_|
+|___________|

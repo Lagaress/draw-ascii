@@ -1,0 +1,11 @@
+---
+tags: breakfast, protein, easter, oval
+artist: draw-ascii
+---
+     .--.
+    /    \
+   /      \
+  |        |
+  |        |
+   \      /
+    '----'

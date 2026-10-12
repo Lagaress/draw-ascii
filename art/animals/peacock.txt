@@ -1,0 +1,14 @@
+---
+tags: bird, feathers, fan, tail, proud, colorful
+artist: draw-ascii
+---
+         @    @    @
+    @     \   |   /     @
+     \     \  |  /     /
+  @---\-----\ | /-----/---@
+       '-.__ \|/ __.-'
+            ( o>
+            /  \
+           /____\
+             ||
+            _||_

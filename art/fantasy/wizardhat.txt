@@ -1,0 +1,12 @@
+---
+tags: wizard, hat, magic, mage, sorcerer
+artist: draw-ascii
+---
+          .
+         / \
+        / * \
+       /  .  \
+      /  *   .\
+     /  .   *  \
+  __/___________\__
+ (_________________)

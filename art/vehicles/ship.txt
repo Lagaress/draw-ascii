@@ -1,0 +1,11 @@
+---
+tags: cruise, ocean liner, boat, steamship
+artist: draw-ascii
+---
+          _    _
+         |_|  |_|
+     ____|_|__|_|____
+    |  o   o   o   o |
+ ____|_______________|____
+ \  o   o   o   o   o    /
+~~\_____________________/~~

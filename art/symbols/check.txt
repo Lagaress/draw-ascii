@@ -1,0 +1,12 @@
+---
+tags: check, checkmark, tick, done, ok, yes
+artist: draw-ascii
+---
+                 _
+                / /
+               / /
+     __       / /
+     \ \     / /
+      \ \   / /
+       \ \_/ /
+        \___/

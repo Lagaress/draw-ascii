@@ -1,0 +1,13 @@
+---
+tags: flame, burn, hot, blaze, danger
+artist: draw-ascii
+---
+            (
+           / )
+          (  \     )
+     )    /   )   ( \
+    / \  (  .  \  /  )
+   (   \/  / \  \/   |
+   |   (  (   )  )   /
+    \   '. '-' .'   /
+     '-.__'---'__.-'

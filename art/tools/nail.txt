@@ -1,0 +1,13 @@
+---
+tags: hammer, build, carpentry, metal
+artist: draw-ascii
+---
+ _________
+(_________)
+    | |
+    | |
+    | |
+    | |
+    | |
+    | |
+     V

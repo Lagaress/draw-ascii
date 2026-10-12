@@ -1,0 +1,16 @@
+---
+tags: pine, fir, conifer, forest, evergreen, tree
+artist: draw-ascii
+---
+          /\
+         /  \
+        /    \
+       /_    _\
+        /    \
+       /      \
+      /_      _\
+       /        \
+      /          \
+     /____    ____\
+          |  |
+          |__|

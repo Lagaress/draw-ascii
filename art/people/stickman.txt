@@ -1,0 +1,10 @@
+---
+tags: stick figure, person, man, human, stickman
+artist: draw-ascii
+---
+     O
+    /|\
+   / | \
+     |
+    / \
+   /   \

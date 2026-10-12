@@ -1,0 +1,16 @@
+---
+tags: bird, tropical, pirate, macaw, talk
+artist: draw-ascii
+---
+      .---.
+     /  o  '--.
+    |      .-. \
+    |     /   \/
+     \    |
+      \    \
+      |\\   |
+   ===|=\\==|====
+       \ \\ |
+        \ \\|
+         \ |
+          \|

@@ -1,0 +1,13 @@
+---
+tags: candy, sweet, sugar, kids
+artist: draw-ascii
+---
+     .---.
+   .'  _  '.
+  /  .' '.  \
+ |  ( (@) )  |
+  \  '._.'  /
+   '._____.'
+       ||
+       ||
+       ||

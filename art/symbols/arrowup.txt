@@ -1,0 +1,12 @@
+---
+tags: arrow, up, north, increase, upload
+artist: draw-ascii
+---
+        /\
+       /  \
+      /    \
+     /_    _\
+       |  |
+       |  |
+       |  |
+       |__|

@@ -1,0 +1,12 @@
+---
+tags: tempo, beat, rhythm, practice
+artist: draw-ascii
+---
+       /\
+      /  \
+     /  / \
+    /  /   \
+   /  o     \
+  /  /       \
+ /__/_________\
+|______________|

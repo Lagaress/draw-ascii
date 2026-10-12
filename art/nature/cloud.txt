@@ -1,0 +1,7 @@
+---
+tags: sky, weather
+artist: draw-ascii
+---
+      .--.
+   .-(    ).
+  (___.__)__)

@@ -1,0 +1,12 @@
+---
+tags: cup, coffee, tea, hot, drink
+artist: draw-ascii
+---
+    ) ) )
+   ( ( (
+  ._______.
+  |       |__
+  |       |  \
+  |       |  |
+  |       |__/
+   \_____/

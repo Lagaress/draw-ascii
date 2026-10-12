@@ -1,0 +1,13 @@
+---
+tags: love, valentine
+artist: draw-ascii
+---
+   .----.   .----.
+  /      \ /      \
+ |        V        |
+  \               /
+   '.           .'
+     '.       .'
+       '.   .'
+         \ /
+          V

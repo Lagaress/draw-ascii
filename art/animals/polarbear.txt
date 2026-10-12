@@ -1,0 +1,11 @@
+---
+tags: mammal, arctic, ice, snow, north pole, bear
+artist: draw-ascii
+---
+             .-.__
+     .--''''      o\_
+    /               _>
+   |    .------.  /'
+   |   |       |  |
+   |___|       |__|
+ ~~~~~~~~~~~~~~~~~~~~~~

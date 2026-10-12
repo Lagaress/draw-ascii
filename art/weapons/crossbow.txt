@@ -1,0 +1,14 @@
+---
+tags: crossbow, archery, bolt, medieval, weapon
+artist: draw-ascii
+---
+           ^
+           |
+ ._________|_________.
+  '-.      |      .-'
+     '-.   |   .-'
+        '-.|.-'
+          |=|
+          |=|
+          |=|
+          |_|

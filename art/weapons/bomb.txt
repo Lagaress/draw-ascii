@@ -1,0 +1,16 @@
+---
+tags: explosive, cartoon
+artist: draw-ascii
+---
+           \ | /
+          -- * --
+            /
+           /
+          (
+        __)__
+      .'     '.
+     /  .      \
+    |  /        |
+    |           |
+     \         /
+      '._____.'

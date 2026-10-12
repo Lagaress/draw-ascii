@@ -1,0 +1,11 @@
+---
+tags: vegetable, fruit, red, salad
+artist: draw-ascii
+---
+       \_|_/
+    .-'/ | \'-.
+   /           \
+  |             |
+  |             |
+   \           /
+    '-._____.-'

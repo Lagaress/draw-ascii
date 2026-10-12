@@ -1,0 +1,9 @@
+---
+tags: vegetable, spud, tuber, fries
+artist: draw-ascii
+---
+      ___.--.__
+    .'  .      '-.
+   (  .     .     )
+    '-.  .    .  /
+       '--.___.-'

@@ -1,0 +1,11 @@
+---
+tags: power, on off, button, shutdown, power button
+artist: draw-ascii
+---
+         | |
+      .' | | '.
+     /   | |   \
+    |    |_|    |
+    |           |
+     \         /
+      '._____.'

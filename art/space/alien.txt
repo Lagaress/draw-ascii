@@ -1,0 +1,11 @@
+---
+tags: et, ufo, green
+artist: draw-ascii
+---
+   .-"""-.
+  /       \
+ | (o) (o) |
+  \  ___  /
+   '.___.'
+   _/   \_
+  / |   | \

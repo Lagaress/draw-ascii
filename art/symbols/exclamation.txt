@@ -1,0 +1,13 @@
+---
+tags: exclamation mark, exclamation, alert, important, bang
+artist: draw-ascii
+---
+       ___
+      |   |
+      |   |
+      |   |
+      |   |
+       \ /
+        V
+       ___
+      |___|

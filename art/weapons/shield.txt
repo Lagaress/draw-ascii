@@ -1,0 +1,11 @@
+---
+tags: knight, defense, fantasy
+artist: draw-ascii
+---
+ _________
+|    |    |
+|    |    |
+|----+----|
+ \   |   /
+  \  |  /
+   '.|.'

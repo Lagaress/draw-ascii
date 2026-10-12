@@ -1,0 +1,13 @@
+---
+tags: fruit, vegetable, guacamole, healthy
+artist: draw-ascii
+---
+        .-.
+       /   \
+      /     \
+     /       \
+    |  .---.  |
+    | (     ) |
+    |  '---'  |
+     \       /
+      '-...-'

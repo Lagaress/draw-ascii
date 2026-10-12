@@ -1,0 +1,14 @@
+---
+tags: potion, elixir, flask, bottle, magic, alchemy
+artist: draw-ascii
+---
+       o
+      o  .
+       ___
+      |___|
+       | |
+      /   \
+     /~~~~~\
+    | ~ o ~ |
+    |  o  ~ |
+     \_____/

@@ -1,0 +1,14 @@
+---
+tags: bird, farm, eggs, nest, poultry
+artist: draw-ascii
+---
+     _/\
+   _/ o \
+  (     _>
+   \   (
+   /    '-._
+  /    __   \
+ (    (__'.  )
+  '-.______.'
+      |  |
+     _|  |_

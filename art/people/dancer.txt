@@ -1,0 +1,10 @@
+---
+tags: dance, dancer, party, disco, person
+artist: draw-ascii
+---
+    \ O /
+     \|/
+      |
+     / \
+    /   \
+   /     \_

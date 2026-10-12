@@ -1,0 +1,9 @@
+---
+tags: sky, weather, summer, hot
+artist: draw-ascii
+---
+    \   |   /
+     .--'--.
+-- (         ) --
+     '--.--'
+    /   |   \

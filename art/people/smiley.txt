@@ -1,0 +1,12 @@
+---
+tags: smiley, smile, happy, face, emoticon
+artist: draw-ascii
+---
+      .-"""""-.
+    .'         '.
+   /   O     O   \
+  |               |
+  |   \       /   |
+   \   '-----'   /
+    '.         .'
+      '-.....-'

@@ -1,0 +1,10 @@
+---
+tags: insect, garden, spring
+artist: draw-ascii
+---
+ .--.  |  .--.
+(    \ | /    )
+ '-.  \|/  .-'
+ .-'  /|\  '-.
+(    / | \    )
+ '--'  |  '--'

@@ -1,0 +1,9 @@
+---
+tags: fruit, citrus, sour, yellow
+artist: draw-ascii
+---
+      .-"""""-.
+    .'         '.
+ -=(             )=-
+    '.         .'
+      '-.....-'

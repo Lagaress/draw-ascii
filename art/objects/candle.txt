@@ -1,0 +1,12 @@
+---
+tags: light, fire, birthday
+artist: draw-ascii
+---
+   (
+    )
+   (_)
+  |   |
+  |   |
+  |   |
+ _|___|_
+(_______)

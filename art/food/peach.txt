@@ -1,0 +1,13 @@
+---
+tags: fruit, summer, sweet, nectarine
+artist: draw-ascii
+---
+         ,_
+      __( \
+   .-'   \ '-.
+  /       |   \
+ |        |    |
+ |        /    |
+  \      /    /
+   '.   |   .'
+     '-.|.-'

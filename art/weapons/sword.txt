@@ -1,0 +1,13 @@
+---
+tags: blade, knight, fantasy
+artist: draw-ascii
+---
+       /\
+       ||
+       ||
+       ||
+       ||
+       ||
+    o==[]==o
+       ||
+       ()

@@ -1,0 +1,12 @@
+---
+tags: mammal, arctic, tusks, mustache, sea
+artist: draw-ascii
+---
+     .-------.
+    /  o   o  \
+   |   _____   |
+   |  (#####)  |
+    \  || ||  /
+     '-||-||-'
+       || ||
+       \/ \/

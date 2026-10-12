@@ -1,0 +1,13 @@
+---
+tags: candy cane, christmas, sweet, candy, peppermint
+artist: draw-ascii
+---
+     .-"""-.
+    / /  / /\
+   | /.---. / |
+    '-'   |/ /|
+          | / |
+          |/ /|
+          | / |
+          |/ /|
+          '---'

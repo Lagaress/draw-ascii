@@ -1,0 +1,10 @@
+---
+tags: tape measure, measure, ruler, length
+artist: draw-ascii
+---
+   _________
+  /  _____  \
+ |  /     \  |_______________
+ |  |  o  |  |_|_|_|_|_|_|_|_]
+ |  \_____/  |
+  \_________/

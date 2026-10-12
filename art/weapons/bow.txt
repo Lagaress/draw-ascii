@@ -1,0 +1,15 @@
+---
+tags: bow, archery, archer, hunting, longbow
+artist: draw-ascii
+---
+       |\
+       | \
+       |  \
+       |   \
+       |    )
+  >>---+----|---->
+       |    )
+       |   /
+       |  /
+       | /
+       |/

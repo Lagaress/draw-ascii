@@ -1,0 +1,12 @@
+---
+tags: cross, x, no, wrong, cancel, close
+artist: draw-ascii
+---
+  \\      //
+   \\    //
+    \\  //
+     \\//
+     //\\
+    //  \\
+   //    \\
+  //      \\

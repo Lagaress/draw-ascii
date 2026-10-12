@@ -1,0 +1,13 @@
+---
+tags: vegetable, green, healthy, greens
+artist: draw-ascii
+---
+      .--.  .--.
+    .(    )(    ).
+   (  .--.  .--.  )
+   ( (    )(    ) )
+    '-.\  \/  /.-'
+        \    /
+         |  |
+         |  |
+         '--'

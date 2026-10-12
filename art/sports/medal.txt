@@ -1,0 +1,14 @@
+---
+tags: award, winner, prize, gold, first place
+artist: draw-ascii
+---
+ \\\     ///
+  \\\   ///
+   \\\ ///
+    \\V//
+     .-.
+   .'   '.
+  /   1   \
+ |    |    |
+  \  _|_  /
+   '.___.'

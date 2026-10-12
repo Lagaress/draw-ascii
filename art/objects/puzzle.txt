@@ -1,0 +1,12 @@
+---
+tags: jigsaw, piece, game, fit
+artist: draw-ascii
+---
+      _
+   __( )__
+  |       |
+  |       |_
+  |        _)
+  |       |
+  |__   __|
+     (_)

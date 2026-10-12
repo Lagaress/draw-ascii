@@ -1,0 +1,9 @@
+---
+tags: sub, underwater, ocean, periscope
+artist: draw-ascii
+---
+              _
+             | |
+          ___| |____
+   ______/ o   o   o\______
+  (________________________)=+

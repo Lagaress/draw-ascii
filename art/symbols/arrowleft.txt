@@ -1,0 +1,10 @@
+---
+tags: arrow, left, west, back, previous
+artist: draw-ascii
+---
+       /|
+      / |________
+     /           |
+     \   ________|
+      \ |
+       \|

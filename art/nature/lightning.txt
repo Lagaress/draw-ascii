@@ -1,0 +1,14 @@
+---
+tags: bolt, thunder, storm, electricity, weather
+artist: draw-ascii
+---
+       _______
+      /      /
+     /      /
+    /      /____
+   /_______    /
+         /   /
+        /  /
+       / /
+      //
+     /'

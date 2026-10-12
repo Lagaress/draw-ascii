@@ -1,0 +1,16 @@
+---
+tags: party, birthday, celebration, float
+artist: draw-ascii
+---
+    ____
+  .'    '.
+ /        \
+|          |
+|          |
+ \        /
+  '.    .'
+    '..'
+     /\
+     )
+    (
+     )

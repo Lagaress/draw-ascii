@@ -1,0 +1,14 @@
+---
+tags: mammal, farm, horns, beard, kid
+artist: draw-ascii
+---
+   __            __
+  /  '.        .'  \
+ (  .-'\______/'-.  )
+  '-'  / o  o \  '-'
+   ---|        |---
+       \      /
+        |.  .|
+        '-..-'
+          ||
+          \/

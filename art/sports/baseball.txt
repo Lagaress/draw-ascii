@@ -1,0 +1,11 @@
+---
+tags: ball, mlb, pitch, softball
+artist: draw-ascii
+---
+     .-----.
+   .' >   < '.
+  / >       < \
+ |  >       <  |
+  \ >       < /
+   '. >   < .'
+     '-----'

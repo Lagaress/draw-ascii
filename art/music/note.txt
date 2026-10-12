@@ -1,0 +1,13 @@
+---
+tags: music, song, melody, eighth note
+artist: draw-ascii
+---
+     |\
+     | \
+     |  \
+     |   |
+     |  /
+     |
+  .--|
+ (   |
+  '--'

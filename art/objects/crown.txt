@@ -1,0 +1,10 @@
+---
+tags: king, queen, royal
+artist: draw-ascii
+---
+ o     o     o
+/ \   / \   / \
+|  \ /   \ /  |
+|   V     V   |
+| <>  <>  <>  |
+|_____________|

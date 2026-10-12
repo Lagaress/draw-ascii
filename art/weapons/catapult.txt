@@ -1,0 +1,13 @@
+---
+tags: catapult, siege, trebuchet, medieval, launcher
+artist: draw-ascii
+---
+                     ___
+                    (   )
+                   / '-'
+                  /
+                 /
+     ___________/____
+    |  /\       /\   |
+    |_/__\_____/__\__|
+     (O)          (O)

@@ -1,0 +1,15 @@
+---
+tags: fiddle, strings, classical, instrument
+artist: draw-ascii
+---
+       @
+       ||
+       ||
+       ||
+     __||__
+    /  ||  \
+    \  ||  /
+    / f||f \
+   (   ||   )
+    \__||__/
+       \/

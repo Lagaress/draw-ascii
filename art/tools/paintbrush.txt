@@ -1,0 +1,15 @@
+---
+tags: brush, paint, painting, art, decorating
+artist: draw-ascii
+---
+    ___
+   |   |
+   |   |
+   |   |
+   |___|
+  |=====|
+  |=====|
+  |     |
+  |||||||
+  \|||||/
+   \|||/

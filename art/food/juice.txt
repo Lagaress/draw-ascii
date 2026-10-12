@@ -1,0 +1,10 @@
+---
+tags: drink, juicebox, straw, kids
+artist: draw-ascii
+---
+       ||
+    ___||___
+   |\      /|
+   | JUICE  |
+   |  (o)   |
+   |________|

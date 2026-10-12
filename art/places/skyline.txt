@@ -1,0 +1,12 @@
+---
+tags: city, downtown, buildings, skyscrapers, urban, night
+artist: draw-ascii
+---
+                      |
+                     _|_
+         ____       |   |      ___
+        |o o |  __  |o o|     |o o|  __
+   __   |o o | |oo| |o o|  _  |o o| |oo|
+  |oo|  |o o | |oo| |o o| |o| |o o| |oo|_
+  |oo|__|o o |_|oo|_|o o|_|o|_|o o|_|oo|o|
+__|oo|oo|o o |o|oo|o|o o|o|o|o|o o|o|oo|o|__

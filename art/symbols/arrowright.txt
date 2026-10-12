@@ -1,0 +1,10 @@
+---
+tags: arrow, right, east, next, forward
+artist: draw-ascii
+---
+           |\
+   ________| \
+  |           \
+  |________   /
+           | /
+           |/

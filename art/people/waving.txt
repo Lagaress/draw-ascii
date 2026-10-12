@@ -1,0 +1,10 @@
+---
+tags: wave, hello, hi, goodbye, person, greeting
+artist: draw-ascii
+---
+      \ O
+       \|
+        |\
+        | \
+       / \
+      /   \

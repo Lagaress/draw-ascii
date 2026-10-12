@@ -1,0 +1,9 @@
+---
+tags: alien, flying, saucer
+artist: draw-ascii
+---
+       _____
+   ___/ o o \___
+  (_____________)
+    /   |   \
+   *    *    *

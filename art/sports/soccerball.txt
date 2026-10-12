@@ -1,0 +1,11 @@
+---
+tags: soccer, football, ball, goal, world cup
+artist: draw-ascii
+---
+      _......_
+    .'\      /'.
+   /   >----<   \
+  |---/      \---|
+  |   \______/   |
+   \  /      \  /
+    '.________.'

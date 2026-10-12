@@ -1,0 +1,11 @@
+---
+tags: mammal, big cat, stripes, jungle, wild
+artist: draw-ascii
+---
+  /\_         _/\
+ /   \_______/   \
+|  ///  \|/  \\\  |
+|    (o)   (o)    |
+|=-      Y      -=|
+ \ =-  \_|_/  -= /
+  \_____________/

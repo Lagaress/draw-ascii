@@ -1,0 +1,10 @@
+---
+tags: rain, weather
+artist: draw-ascii
+---
+     _.-'`'-._
+   .'    |    '.
+  /_.-'-.|.-'-._\
+         |
+         |
+       \_/

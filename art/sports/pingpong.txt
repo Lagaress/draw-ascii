@@ -1,0 +1,13 @@
+---
+tags: table tennis, paddle, ball, ping pong
+artist: draw-ascii
+---
+    .-----.
+   /       \
+  |         |
+  |         |
+   \       /     o
+    '-. .-'
+      | |
+      | |
+      |_|

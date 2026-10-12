@@ -1,0 +1,11 @@
+---
+tags: sea, ocean, mammal, jump, porpoise
+artist: draw-ascii
+---
+                ,
+              _/|
+       _.---''  '----.._
+  ___.'  o              ''-._  ,-
+ '---.___                    '>=
+         '-----\\----..___.-'  '-
+                \|

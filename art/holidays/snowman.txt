@@ -1,0 +1,15 @@
+---
+tags: snowman, winter, snow, christmas, frosty
+artist: draw-ascii
+---
+        _____
+        |   |
+       _|___|_
+       ( o o )
+       (  >  )
+    \  (_____)  /
+     \ (  o  ) /
+      \(  o  )/
+      (   o   )
+     (         )
+      (_______)

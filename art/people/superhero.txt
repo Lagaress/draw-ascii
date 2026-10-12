@@ -1,0 +1,14 @@
+---
+tags: superhero, hero, cape, super, comic
+artist: draw-ascii
+---
+           ___
+          (o o)
+       ___ \-/ ___
+      /   \___/   \
+     /  /|  S  |\  \
+    /  / |_____| \  \
+   /  /  |  |  |  \  \
+  /__/   |  |  |   \__\
+         |__|__|
+         /_/ \_\

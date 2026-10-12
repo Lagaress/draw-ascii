@@ -1,0 +1,12 @@
+---
+tags: sea, ocean, beach, star, sea star
+artist: draw-ascii
+---
+         /\
+        /  \
+ ______/    \______
+ \                /
+  '.   o    o   .'
+   /     \/     \
+  /    .'  '.    \
+ /__.-'      '-.__\

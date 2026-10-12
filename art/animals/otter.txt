@@ -1,0 +1,12 @@
+---
+tags: mammal, river, sea otter, float, cute
+artist: draw-ascii
+---
+     .-.     .-.
+    (  '-----'  )
+     /  o   o  \
+    |    .-.    |
+  ==|   ( Y )   |==
+     \   '-'   /
+     (\_(m m)_/)
+  ~~~~~~~~~~~~~~~~~~~

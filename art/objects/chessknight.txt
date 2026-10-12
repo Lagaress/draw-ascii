@@ -1,0 +1,12 @@
+---
+tags: chess, knight, horse, game, strategy
+artist: draw-ascii
+---
+       /\
+     _/  \__
+    /  o    \
+   (    _____>
+    \   \
+    /    \
+   /______\
+  [________]

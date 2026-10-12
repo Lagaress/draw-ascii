@@ -1,0 +1,13 @@
+---
+tags: mammal, bunny, easter, pet
+artist: draw-ascii
+---
+    .--. .--.
+    |  | |  |
+    |  | |  |
+    |  |_|  |
+    /  o o  \
+   (    v    )
+    \  \_/  /
+   __'-----'__
+  (___)   (___)

@@ -1,134 +1,181 @@
 # draw-ascii
 
-[📖 Documentation](https://github.com/Lagaress/draw-ascii?tab=readme-ov-file/) ·
-[📣 Announcements](https://github.com/Lagaress/draw-ascii/issues) ·
+[![npm](https://img.shields.io/npm/v/draw-ascii.svg)](https://www.npmjs.com/package/draw-ascii)
+[![CI](https://github.com/Lagaress/draw-ascii/actions/workflows/ci.yml/badge.svg)](https://github.com/Lagaress/draw-ascii/actions/workflows/ci.yml)
+[![license](https://img.shields.io/npm/l/draw-ascii.svg)](LICENSE)
+
+[🖼 Gallery](GALLERY.md) ·
 [🐞 Report Bug](https://github.com/Lagaress/draw-ascii/issues/new?template=bug-report.md) ·
-[🍩 Request Feature](https://github.com/Lagaress/draw-ascii/issues/new?template=feature-request.md) ·
+[🍩 Request Feature](https://github.com/Lagaress/draw-ascii/issues/new?template=feature-request.md)
 
-## About
+Hundreds of ASCII drawings for your terminal, CLI tools, logs and READMEs, with speech bubbles,
+frames, colors, big banner text and a command line tool. Zero dependencies, works in Node and in the
+browser, ships with TypeScript types and both ESM and CommonJS builds.
 
-A library to draw ASCII art animals, tools, and food
+```text
+ _______________________
+< draw-ascii v2 is here >
+ -----------------------
+    \   ^__^
+     \  (oo)\_______
+        (__)\       )\/\
+            ||----w |
+            ||     ||
+```
 
 ## Installation
 
 ```bash
-npm install  draw-ascii
+npm install draw-ascii
 ```
 
-## Usage
+Or try it without installing:
 
-```javascript
-const { cow } = require('draw-ascii');
-
-console.log(cow);
-
-// Output
-//       \\   ^__^
-//        \\  (oo)\\_______
-//           (__)\\       )\\/\\
-//               ||----w |
-//               ||     ||
+```bash
+npx draw-ascii cow --say "Hello!"
 ```
 
-## Types
+## Quick start
 
-Click the name for more information
+```js
+import { cow, draw, random } from 'draw-ascii';
+// or: const { cow, draw, random } = require('draw-ascii');
 
-### Animals
-- [cow](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/cow.js)
-- [pig](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/pig.js)
-- [chicken](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/chicken.js)
-- [duck](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/duck.js)
-- [cat](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/cat.js)
-- [dog](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/dog.js)
-- [alligator](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/alligator.js)
-- [ant](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/ant.js)
-- [bacon](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bacon.js)
-- [bat](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bat.js)
-- [bear](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bear.js)
-- [bee](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bee.js)
-- [bird](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bird.js)
-- [bug](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bug.js)
-- [bull](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bull.js)
-- [camel](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/camel.js)
-- [panda](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/panda.js)
-- [seahorse](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/seahorse.js)
-- [sheep](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/sheep.js)
-- [squirrel](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/squirrel.js)
-- [squid](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/squid.js)
-- [tapir](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/tapir.js)
-- [toucan](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/toucan.js)
-- [turkey](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/turkey.js)
-- [zebra](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/zebra.js)
-- [duck](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/duck.js)
-- [cat](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/cat.js)
-- [dog](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/dog.js)
-- [alligator](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/alligator.js)
-- [ant](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/ant.js)
-- [bat](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bat.js)
-- [bear](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bear.js)
-- [bee](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bee.js)
-- [bird](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bird.js)
-- [bug](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bug.js)
-- [bull](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bull.js)
-- [camel](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/camel.js)
-- [panda](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/panda.js)
-- [seahorse](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/seahorse.js)
-- [sheep](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/sheep.js)
-- [squirrel](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/squirrel.js)
-- [squid](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/squid.js)
-- [tapir](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/tapir.js)
-- [toucan](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/toucan.js)
-- [turkey](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/turkey.js)
-- [zebra](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/zebra.js)
+console.log(cow());                                  // the plain drawing
+console.log(cow({ say: 'Moo!' }));                   // with a speech bubble
+console.log(draw('cat', { think: 'hmm...', frame: 'round' }));
+console.log(random({ category: 'animals', color: 'rainbow' }));
+```
 
-### Tools
-- [hammer](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/hammer.js)
-- [axe](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/axe.js)
-- [saw](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/saw.js)
-- [screwdriver](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/screwdriver.js)
-- [wrench](https://github.com/Lagaress/draw-ascii/blob/master/src/tools/wrench.js)
+Every drawing is a named export that returns a string. Browse them all in the **[gallery](GALLERY.md)**,
+or from the terminal with `npx draw-ascii --list`.
 
-### Food
-- [bacon](https://github.com/Lagaress/draw-ascii/blob/master/src/animals/bacon.js)
-- [beer](https://github.com/Lagaress/draw-ascii/blob/master/src/food/beer.js)
-- [cheese](https://github.com/Lagaress/draw-ascii/blob/master/src/food/cheese.js)
-- [donut](https://github.com/Lagaress/draw-ascii/blob/master/src/food/donut.js)
-- [fish](https://github.com/Lagaress/draw-ascii/blob/master/src/food/fish.js)
-- [grapes](https://github.com/Lagaress/draw-ascii/blob/master/src/food/grapes.js)
-- [milk](https://github.com/Lagaress/draw-ascii/blob/master/src/food/milk.js)
-- [pear](https://github.com/Lagaress/draw-ascii/blob/master/src/food/pear.js)
-- [pizza](https://github.com/Lagaress/draw-ascii/blob/master/src/food/pizza.js)
-- [soup](https://github.com/Lagaress/draw-ascii/blob/master/src/food/soup.js)
-- [tea](https://github.com/Lagaress/draw-ascii/blob/master/src/food/tea.js)
+## API
 
-### Objects
-- [anchor](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/anchor.js)
-- [bible](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/bible.js)
-- [bucket](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/bucket.js)
-- [clock](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/clock.js)
-- [glasses](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/glasses.js)
-- [microphone](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/microphone.js)
-- [pen](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/pen.js)
-- [sofa](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/sofa.js)
-- [spoon](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/spoon.js)
-- [star](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/star.js)
-- [tie](https://github.com/Lagaress/draw-ascii/blob/master/src/objects/tie.js)
+### Drawing
 
-### Weapons
-- [arrow](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/arrow.js)
-- [cannon](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/cannon.js)
-- [gun](https://github.com/Lagaress/draw-ascii/blob/master/src/weapons/gun.js)
+| Function | Description |
+| --- | --- |
+| `draw(name, options?)` | Returns a drawing by name. Unknown names throw an error with a "did you mean" hint. |
+| `<name>(options?)` | Shortcut for every drawing: `cow(options)` is `draw('cow', options)`. |
+| `random(options?)` | A random drawing. Accepts `category` and `tag` filters plus every draw option. |
+
+**Options** (applied in this order):
+
+| Option | Type | Description |
+| --- | --- | --- |
+| `flip` | `boolean` | Mirror horizontally. Direction-sensitive characters like `/`, `(`, `<` are swapped. |
+| `say` | `string` | Speech bubble above the drawing. |
+| `think` | `string` | Thought bubble above the drawing. |
+| `width` | `number` | Line width inside bubbles. Defaults to `40`. |
+| `frame` | `boolean \| style \| { style, padding, title }` | Border around everything. |
+| `color` | `string` | ANSI color: `red`, `green`, `brightBlue`..., `rainbow` or a hex code like `#ff8800`. |
+
+### Catalog
+
+| Function | Description |
+| --- | --- |
+| `list(category?)` | Names of every drawing, optionally from one category. |
+| `categories` | Every category name. |
+| `search(query)` | Drawings whose name, category or tags match, best matches first. |
+| `get(name)` | `{ name, category, tags, artist, art, width, height }`, or `undefined`. |
+
+```js
+search('halloween').map((item) => item.name); // ['bat', 'spider', 'ghost', 'coffin', ...]
+```
+
+### Transformations
+
+These work on **any** string, including your own art, and can be chained:
+
+| Function | Description |
+| --- | --- |
+| `say(art, text, { width })` | Speech bubble. |
+| `think(art, text, { width })` | Thought bubble. |
+| `flip(art)` | Horizontal mirror. |
+| `frame(art, { style, padding, title })` | Border. Styles: `ascii`, `single`, `double`, `round`, `bold`, `stars`, `hash`. |
+| `combine(arts, { gap, align })` | Side by side, aligned `top`, `center` or `bottom` (default). |
+| `center(art, width?)` | Centers in the given width, or the terminal width. |
+| `scale(art, factor)` | Makes it bigger by repeating characters and lines. |
+| `color(art, color)` | ANSI colors (see above). |
+| `banner(text, { char, gap })` | Big 5-line block letters. |
+| `stripAnsi(text)` | Removes ANSI color codes. |
+
+```js
+import { combine, frame, banner, cat, dog, duck } from 'draw-ascii';
+
+console.log(frame(combine([cat(), dog(), duck()]), { style: 'round', title: 'friends' }));
+console.log(banner('Hi!'));
+```
+
+```text
+#   # ### #
+#   #  #  #
+#####  #  #
+#   #  #
+#   # ### #
+```
+
+## Command line
+
+```bash
+draw-ascii cow --say "Hello!"              # speech bubble
+draw-ascii cat --think "..." --frame round # thought bubble inside a border
+draw-ascii cat dog duck                    # several drawings side by side
+draw-ascii --random --category food        # something random
+draw-ascii --banner "Deploy OK" --color green
+git log -1 --format=%s | draw-ascii cow --say -   # read the text from stdin
+
+draw-ascii --list            # every name
+draw-ascii --categories      # categories with counts
+draw-ascii --search space    # search names, categories and tags
+draw-ascii --info bee        # metadata for one drawing
+draw-ascii --help            # all options
+```
+
+Colors are disabled when the `NO_COLOR` environment variable is set.
+
+## Upgrading from 1.x
+
+- Drawings no longer start with a blank line or end with stray spaces, so `cow()` returns exactly the
+  drawing. If you relied on that extra newline, add it yourself.
+- Several 1.x drawings lost backslashes because of escaping bugs (bat, bear, zebra, clock and more)
+  and `sofa()` threw an error. They are all fixed.
+- Every 1.x name still exists and is still a function, so `cow()` keeps working.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+New drawings are very welcome, and you don't have to write any JavaScript:
+
+1. Create `art/<category>/<name>.txt` (lowercase letters and numbers only):
+
+   ```text
+   ---
+   tags: cute, pet
+   artist: your-name
+   ---
+   (\(\
+   ( -.-)
+   o_(")(")
+   ```
+
+   Paste the drawing as-is: no escaping needed. Printable ASCII only, up to 60 columns and 25 lines.
+2. Run `npm run build` to regenerate `lib/` and `GALLERY.md`, then `npm test`.
+3. Open a pull request.
+
+Only submit drawings you made yourself or that you are allowed to share, and keep the original
+artist's signature and credit.
+
+## Credits
+
+The original 1.x drawings come from [ascii.co.uk](https://www.ascii.co.uk/) and keep their artists'
+signatures (jgs, mrf, ldb, DcaU and others). The drawings added in 2.0 are original work made for this
+library.
 
 ## Author
 
-**Jesús Lagares**
-- Email: jesuslagaresgalan@gmail.com
-- GitHub: [@Lagaress](https://github.com/Lagaress)
+**Jesús Lagares** · [@Lagaress](https://github.com/Lagaress) · jesuslagaresgalan@gmail.com
 
-## Acknowledgments
-Designs were extracted from [ascii.co.uk](https://www.ascii.co.uk/)
+## License
+
+[MIT](LICENSE)

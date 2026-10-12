@@ -1,0 +1,13 @@
+---
+tags: mammal, forest, antlers, stag, reindeer
+artist: draw-ascii
+---
+  \|/          \|/
+   \\_/      \_//
+    \_\      /_/
+       \.--./
+    ---/    \---
+       |o  o|
+       |    |
+        \  /
+        (oo)

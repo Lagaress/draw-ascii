@@ -1,0 +1,11 @@
+---
+tags: warning, caution, alert, danger, attention
+artist: draw-ascii
+---
+          /\
+         /  \
+        / || \
+       /  ||  \
+      /   ||   \
+     /    ..    \
+    /____________\

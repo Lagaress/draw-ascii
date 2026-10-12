@@ -1,0 +1,12 @@
+---
+tags: fruit, yellow, tropical, snack
+artist: draw-ascii
+---
+ _
+| |
+ \ \
+  \ '.
+   '. '-._
+     '-._ '--.______
+         '-.____    '.
+                '----'

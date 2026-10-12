@@ -1,0 +1,10 @@
+---
+tags: plus, add, positive, math, new
+artist: draw-ascii
+---
+       ___
+      |   |
+   ___|   |___
+  |___     ___|
+      |   |
+      |___|

@@ -1,0 +1,11 @@
+---
+tags: mammal, africa, horn, safari, rhinoceros
+artist: draw-ascii
+---
+                      /|
+           ____   /| / |
+     .-''''    ''' o '  \
+    /                 ___)
+   |     _______     /
+   \    /      |    |
+    |__|       |____|

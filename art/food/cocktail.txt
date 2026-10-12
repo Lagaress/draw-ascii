@@ -1,0 +1,12 @@
+---
+tags: drink, martini, alcohol, bar, olive
+artist: draw-ascii
+---
+ \~~~~~~~~~/
+  \  o    /
+   \ |   /
+    \|  /
+     \ /
+      |
+      |
+    __|__

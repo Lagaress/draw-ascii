@@ -1,0 +1,9 @@
+---
+tags: meteor, shooting star, asteroid, tail
+artist: draw-ascii
+---
+ .           .         *
+     - -- --- ----====  .-.
+  - --- ---- -----=====( @ )
+     - -- --- ----====  '-'
+ *          .      .

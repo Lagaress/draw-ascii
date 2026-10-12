@@ -1,0 +1,11 @@
+---
+tags: compact disc, dvd, disc, music
+artist: draw-ascii
+---
+      .-''''''''-.
+   .'              '.
+  /      .-''-.      \
+ |      (  ()  )      |
+  \      '-..-'      /
+   '.              .'
+      '-........-'

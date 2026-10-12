@@ -1,0 +1,17 @@
+---
+tags: mermaid, siren, sea, ocean, fairytale
+artist: draw-ascii
+---
+       ~~~~~
+      ~(o o)~
+      ~ \_/ ~
+     __/   \__
+    /  |   |  \
+       |___|
+       |   |
+        \   \
+         \   \
+          )   )
+         /   /
+       _/   /_
+      /__/ \__\

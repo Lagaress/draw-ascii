@@ -1,0 +1,15 @@
+---
+tags: coffin, halloween, vampire, death, spooky, grave
+artist: draw-ascii
+---
+       _______
+      /       \
+     /    _    \
+    /    | |    \
+   |   __| |__   |
+   |  |__   __|  |
+   |     | |     |
+    \    | |    /
+     \   |_|   /
+      \       /
+       \_____/

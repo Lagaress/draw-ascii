@@ -1,0 +1,8 @@
+---
+tags: automobile, sedan, drive, road
+artist: draw-ascii
+---
+        ____________
+   ____/  |    |    \____
+  |  _    |    |    _    |
+  '-(_)----------------(_)-'

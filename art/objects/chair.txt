@@ -1,0 +1,13 @@
+---
+tags: seat, furniture, chair, home
+artist: draw-ascii
+---
+ __
+|  |
+|  |
+|  |
+|  |__________
+|_____________|
+|  |       |  |
+|  |       |  |
+|__|       |__|

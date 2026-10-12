@@ -1,0 +1,12 @@
+---
+tags: fruit, citrus, juice, vitamin
+artist: draw-ascii
+---
+         _\/
+      .-'||'-.
+    .'  .     '.
+   /  .    .    \
+  |  .   .    .  |
+   \   .   .  . /
+    '.  .   . .'
+      '-....-'

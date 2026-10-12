@@ -1,0 +1,13 @@
+---
+tags: reindeer, rudolph, deer, christmas, antlers
+artist: draw-ascii
+---
+   \ \/ /      \ \/ /
+    \  /        \  /
+     \ \________/ /
+      \/        \/
+       |  o  o  |
+       |        |
+        \  __  /
+         \(@@)/
+          '--'
